@@ -1,0 +1,28 @@
+\babel@toc {russian}{}
+\contentsline {figure}{\numberline {1}{\ignorespaces mpsk\_rrc\_rolloff граф}}{4}{figure.1}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Результат}}{5}{figure.2}%
+\contentsline {figure}{\numberline {3}{\ignorespaces mpsk\_stage1 граф}}{5}{figure.3}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Результат}}{6}{figure.4}%
+\contentsline {figure}{\numberline {5}{\ignorespaces mpsk\_stage2 граф}}{7}{figure.5}%
+\contentsline {figure}{\numberline {6}{\ignorespaces Результат}}{7}{figure.6}%
+\contentsline {figure}{\numberline {7}{\ignorespaces symbol\_sampling граф}}{8}{figure.7}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Результат}}{8}{figure.8}%
+\contentsline {figure}{\numberline {9}{\ignorespaces symbol\_sampling\_diff граф}}{9}{figure.9}%
+\contentsline {figure}{\numberline {10}{\ignorespaces Результат}}{9}{figure.10}%
+\contentsline {figure}{\numberline {11}{\ignorespaces symbol\_differential\_filter граф}}{10}{figure.11}%
+\contentsline {figure}{\numberline {12}{\ignorespaces Результат}}{10}{figure.12}%
+\contentsline {figure}{\numberline {13}{\ignorespaces Добавили тактовое смещение}}{11}{figure.13}%
+\contentsline {figure}{\numberline {14}{\ignorespaces 5 фильтров}}{11}{figure.14}%
+\contentsline {figure}{\numberline {15}{\ignorespaces Результат}}{12}{figure.15}%
+\contentsline {figure}{\numberline {16}{\ignorespaces mpsk\_stage3 граф}}{12}{figure.16}%
+\contentsline {figure}{\numberline {17}{\ignorespaces Результат}}{13}{figure.17}%
+\contentsline {figure}{\numberline {18}{\ignorespaces multipath\_sim граф}}{14}{figure.18}%
+\contentsline {figure}{\numberline {19}{\ignorespaces Результат}}{15}{figure.19}%
+\contentsline {figure}{\numberline {20}{\ignorespaces mpsk\_stage4 граф с \texttt {CMA}}}{16}{figure.20}%
+\contentsline {figure}{\numberline {21}{\ignorespaces Результат работы \texttt {CMA}}}{16}{figure.21}%
+\contentsline {figure}{\numberline {22}{\ignorespaces mpsk\_stage4 граф с \texttt {LMS-DD}}}{17}{figure.22}%
+\contentsline {figure}{\numberline {23}{\ignorespaces Результат работы \texttt {LMS-DD}}}{17}{figure.23}%
+\contentsline {figure}{\numberline {24}{\ignorespaces mpsk\_stage5 граф}}{18}{figure.24}%
+\contentsline {figure}{\numberline {25}{\ignorespaces Результат работы \texttt {Costas Loop}}}{19}{figure.25}%
+\contentsline {figure}{\numberline {26}{\ignorespaces mpsk\_stage6 граф}}{19}{figure.26}%
+\contentsline {figure}{\numberline {27}{\ignorespaces Результат декодирования}}{20}{figure.27}%

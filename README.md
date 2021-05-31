@@ -1,3 +1,9 @@
+[PDF-отчет к лабораторной по GNU Radio](./forlabs/gnuradio_report.pdf)
+<br>
+<br>
+____
+____
+
 gr-tutorial
 ===========
 
